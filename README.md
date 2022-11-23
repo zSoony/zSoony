@@ -1,7 +1,9 @@
 ### e ai, bem vindo 👋
-🌱 Estou estudando Javascript e pretendo aprender node em breve o/
+🌱 back end developer |Java|
 
-🤔 Toda ajuda é bem vinda xD
+
+
+🤔 cuidado onde pisa
 <!--
 **zSoony/zSoony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
