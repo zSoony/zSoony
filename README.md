@@ -1,5 +1,6 @@
 ### e ai, bem vindo 👋
-🌱 back end developer |Java|
+🌱 back end developer | Java |
+
 
 
 
